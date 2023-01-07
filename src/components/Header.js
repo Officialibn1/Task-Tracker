@@ -2,12 +2,12 @@
 const Header = () => {
     return (
         <header>
-            <h1>Task Tracker</h1>, 
+            <h1>Task Tracker</h1>
         </header>
     );
 }
 
-// CSS in JS
+// CSS in JS    
 // const headingStyle = {
 //     color: 'blue',
 //     backgroundColor: 'grey',
