@@ -1,16 +1,10 @@
 {
   "tasks": [
     {
-      "text": "Clean Mum's Car",
-      "day": "8th January 2023",
+      "text": "Read How to Win Friends and Influence People",
+      "day": "Today @ 2pm",
       "reminder": true,
       "id": 1
-    },
-    {
-      "text": "Go to bed ",
-      "day": "2am 8th January 2023",
-      "reminder": true,
-      "id": 2
     }
   ]
 }
