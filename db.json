@@ -1,10 +1,3 @@
 {
-  "tasks": [
-    {
-      "text": "Sleep Early",
-      "day": "11:00PM ",
-      "reminder": true,
-      "id": 1
-    }
-  ]
+  "tasks": []
 }
